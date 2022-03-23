@@ -64,7 +64,7 @@ const app = {
         {
           "avatar": "https://avatar-nct.nixcdn.com/singer/avatar/2020/06/08/1/f/f/2/1591598848425.jpg",
           "creator": "Obito",
-          "music": "https://f9-stream.nixcdn.com/NhacCuaTui1026/SojuLove-Obito-7135984.mp3?st=ff0867ayz_IeOIFxk6FQJg&e=1647692463",
+          "music": "https://f9-stream.nixcdn.com/NhacCuaTui1026/SojuLove-Obito-7135984.mp3?st=L0upN3jfAmnoW8liiZnoJQ&e=1648088697",
           "title": "Soju Love",
         },
         {
